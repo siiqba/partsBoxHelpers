@@ -2,11 +2,11 @@
   "lidHelperSystem":{
     "version": [1, 2, 0],
     "message": "fixing UI issue",
-    "archPath": "https://raw.githubusercontent.com/siiqba/partsBoxHelpers/main/lidHelperSystem_1_2.7z"
+    "archPath": "https://raw.githubusercontent.com/siiqba/partsBoxHelpers/main/lidHelperSystem_1_2.zip"
   },
   "lidHelperSystem_v2":{
     "version": [1, 2],
     "message": "lidHelper v2",
-    "archPath": "https://raw.githubusercontent.com/siiqba/partsBoxHelpers/main/lidHelperSystem_1_2.7z"
+    "archPath": "https://raw.githubusercontent.com/siiqba/partsBoxHelpers/main/lidHelperSystem_1_2.zip"
   }
 }
